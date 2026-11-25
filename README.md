@@ -3,6 +3,8 @@ UoM Physics BSc dissertation. The Impact of Artificial Intelligence in Astrophys
 
 Supervisor: Prof. Clive Dickinson.
 
+Grade: 76%
+
 ## Abstract
 The implementation of artificial intelligence (AI) in astrophysics has increased tenfold
 in the past decade in order to deal with the rapidly growing data volumes produced
